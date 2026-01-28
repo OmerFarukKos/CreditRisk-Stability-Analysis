@@ -46,7 +46,7 @@ Projeyi yerel bilgisayarınızda çalıştırmak için:
 
 ```bash
 # 1. Repoyu klonlayın
-git clone [https://github.com/](https://github.com/)OmerFarukKos/credit-risk-validation.git
+git clone https://github.com/OmerFarukKos/credit-risk-validation.git
 
 # 2. Gerekli kütüphaneleri yükleyin
 pip install pandas numpy xgboost scikit-learn
