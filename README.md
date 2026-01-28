@@ -48,8 +48,11 @@ Projeyi yerel bilgisayarınızda çalıştırmak için:
 # 1. Repoyu klonlayın
 git clone https://github.com/OmerFarukKos/CreditRisk-Stability-Analysis.git
 
-# 2. Gerekli kütüphaneleri yükleyin
+# 2. Klasörün içine girin
+cd CreditRisk-Stability-Analysis
+
+# 3. Gerekli kütüphaneleri yükleyin
 pip install pandas numpy xgboost scikit-learn
 
-# 3. Analizi başlatın
+# 4. Analizi başlatın
 python main.py
